@@ -1,0 +1,2 @@
+# BOPOMOFO
+Bopomofo, also called Zhuyin (Chinese: 注音) or Mandarin Phonetic Symbols, is the major Chinese transliteration system for Mandarin Chinese and other related languages and dialects which is nowadays most commonly used in Taiwanese Mandarin. It is also used to transcribe other varieties of Chinese, particularly other varieties of Standard Chinese and related Mandarin dialects, as well as Taiwanese Hokkien.
